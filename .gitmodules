@@ -1,0 +1,6 @@
+[submodule "blog-front"]
+	path = blog-front
+	url = https://github.com/aaa-lt/blog-front.git
+[submodule "blog-back"]
+	path = blog-back
+	url = https://github.com/aaa-lt/blog-back.git
